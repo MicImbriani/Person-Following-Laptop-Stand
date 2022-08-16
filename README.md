@@ -20,8 +20,8 @@ More details below.
 
 # The robot is divided into two levels: upper and lower. 
 <h2>Lower Level<h2>
-![LOWER](https://user-images.githubusercontent.com/67190150/184819032-d82c35e8-eed8-40c8-9641-4815a8f3d768.jpg)
 
+![LOWER](https://user-images.githubusercontent.com/67190150/184819032-d82c35e8-eed8-40c8-9641-4815a8f3d768.jpg)
 
 In the lower level, the wheeilng system is placed: this is used for the left/right movement. Instead of directly attaching the wheels to the motors, a gearing system (2 gears, 1:1 ratio) was used in combination with a 3D-printed component with 2 radial ball bearings in ints inside: this allowed to transfer the weight load from the motors' shafts to the device.
 ![activeWheel](https://user-images.githubusercontent.com/67190150/184816164-2b1d5bab-ac05-4c32-bcba-9bd9d5b29b90.jpg)
@@ -33,8 +33,8 @@ There is also a mechanism (composed of a DC motor and a lead screw) for the up/d
 Finally, two IR sensors are placed at the extremities of the device, which are used for edge detection and preventing the robot from falling off of the surface on which it is placed.
 
 <h2>Upper Level</h2>
+ 
 ![UPPERFLOOR](https://user-images.githubusercontent.com/67190150/184819058-0c166a46-0331-499c-b2ce-ad3499d2580d.jpg)
-
 
 In the upper level, the Arduino, breadboard and AC/DC converter (or, if connecting the robot to an electric outlet is not feasible, a battery) are placed.
 Two IR sensors are also placed for preventing the base from moving too high or too low. An extra component is installed to maintain the rotation of the lead screw centred. 
