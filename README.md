@@ -19,7 +19,8 @@ More details below.
 
 
 # The robot is divided into two levels: upper and lower. 
-<h2>Lower Level<h2>
+
+<h2>Lower Level</h2>
 
 ![LOWER](https://user-images.githubusercontent.com/67190150/184819032-d82c35e8-eed8-40c8-9641-4815a8f3d768.jpg)
 
